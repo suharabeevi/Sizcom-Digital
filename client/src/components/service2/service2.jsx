@@ -30,7 +30,7 @@ function service2() {
         </div>
 
 
-        <div className='bg-blue-50 mt-12 h-au pt-40 flex'>
+        <div className='bg-blue-50 mt-12 h-auto pt-40 flex'>
   <div className='w-1/2 flex justify-center items-center'>
     <img src="https://res.cloudinary.com/dpgbodkae/image/upload/v1720764432/SIZCOM/img2_pg7yro.webp" alt="Mercedes-Benz Service" className='h-80 ml-56'/>
   </div>
