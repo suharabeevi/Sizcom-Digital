@@ -13,8 +13,6 @@ function services4() {
           <div className="py-3">
 ACCORDIAN
           </div>
-          
-          
         </div>
         <div className='w-full md:w-1/2 flex justify-center'>
           <img src="https://res.cloudinary.com/dpgbodkae/image/upload/v1720770861/SIZCOM/yard_vja3tr.webp" alt="Mercedes-Benz Service" className='h-80 ml-6 md:ml-0'/>
